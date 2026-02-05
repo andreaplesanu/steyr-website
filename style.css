@@ -70,7 +70,7 @@ body {
 /* Hero Section */
 .hero {
     height: 80vh;
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('../bilder/zweifluesseestadt.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('..zweifluesseestadt.jpg') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -148,4 +148,5 @@ footer {
     text-align: center;
     padding: 40px;
     opacity: 0.7;
+
 }
